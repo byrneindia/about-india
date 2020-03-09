@@ -1,4 +1,22 @@
+h1{
+	text-align: -moz-right;
+	font-optical-sizing: auto;
+	margin-bottom: 40px;
+	color: lightpink;
+}
+
+body{
+	background-color: rebeccapurple;
+}
+
+div{
+	margin-bottom: 30px;
+	width: 360px;
+	text-align: center;
+}
+
 #image{
-height: 300px;
-width: 300px;
+	height: 350px;
+	width: 350px;
+
 }
